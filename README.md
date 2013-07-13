@@ -7,8 +7,8 @@ Mailcheck offers suggestions for potentially misspelled email addresses based on
 Example Scenario
 ----------------
 
-####What if a user enters in "me@hot*w*ail.com" to an input field? (*Note the misspelling)*  
-Most likely, this user meant to enter in "me@hot*m*ail.com". Mailcheck.dart allows you to offer suggestions to users if they mispell a domain. In this case, ```me@hotmail.com``` would be suggested.  
+####What if a user enters in "me@hotwail.com" to an input field? (*Note the misspelling)*  
+Most likely, this user meant to enter in "me@hotmail.com". Mailcheck.dart allows you to offer suggestions to users if they mispell a domain. In this case, ```me@hotmail.com``` would be suggested.  
 
 ####Example Usage:
 Mailcheck.dart is simple to use. To get started, you should install the library via [Pub](http://pub.dartlang.org/doc/). Here is a simple example:
