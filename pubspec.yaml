@@ -1,0 +1,7 @@
+name: mailcheck
+version: 0.0.1
+author: Ryan Smith <rwsmith517@gmail.com>
+description: A port to Dart of mailcheck.js (See https://github.com/Kicksend/mailcheck for ORIGINAL mailcheck.js)
+homepage: http://github.com/rwsmith/mailcheck.dart
+dependencies:
+  browser: any
