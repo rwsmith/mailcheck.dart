@@ -21,7 +21,7 @@ class MailChecker
   
   int _threshold;
   /// The default list of domains to match against. Modify, if needed, after creating a `MailCheck` object, and before calling [suggest()] or [simpleSuggest()].
-  List<String> domains = ["yahoo.com", "google.com", "hotmail.com", "gmail.com", "me.com", "aol.com", "mac.com", "live.com", "comcast.net", "googlemail.com", "msn.com", "hotmail.co.uk", "yahoo.co.uk","facebook.com", "verizon.net", "sbcglobal.net", "att.net", "gmx.com", "mail.com"];
+  List<String> domains = ["yahoo.com", "google.com", "hotmail.com", "gmail.com", "me.com", "aol.com", "mac.com", "live.com", "comcast.net", "googlemail.com", "msn.com", "hotmail.co.uk", "yahoo.co.uk", "facebook.com", "verizon.net", "sbcglobal.net", "att.net", "gmx.com", "mail.com"];
   
   /// The default list of TLDs. Modify, if needed, after creating a `MailChecker` object, and before calling [suggest()] or [simpleSuggest()]. 
   List<String> topLevelDomains = ["co.uk", "com", "net", "org", "info", "edu", "gov", "mil"];
